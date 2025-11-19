@@ -7,6 +7,10 @@ Database: MongoDB (Mongoose ORM)
 Frontend: React.js, TypeScript
 
 UI Library: Material UI (MUI)
+Start Scripts
+
+Backend - npm run dev
+Frontend - npm start
 
 Both backend and frontend are fully implemented with proper validations, error handling, and a clean folder structure.
 
